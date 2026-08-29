@@ -1,1 +1,1 @@
-# gpt-backend
+# NexChat-backend
